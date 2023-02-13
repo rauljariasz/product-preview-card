@@ -22,7 +22,7 @@ const App = () => {
             <p>$169.99</p>
           </div>
           <button>
-            <img src={iconCart} alt="" className="cardContainer__productInfo--iconCart" />
+            <img src={iconCart} alt="" className="productInfo__button--iconCart" />
             <p>Add to Cart</p>
           </button>
         </div>
