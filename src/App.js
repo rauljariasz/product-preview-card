@@ -23,7 +23,7 @@ const App = () => {
           </div>
           <button>
             <img src={iconCart} alt="" className="productInfo__button--iconCart" />
-            <p>Add to Cart</p>
+            Add to Cart
           </button>
         </div>
       </section>
