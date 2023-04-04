@@ -51,7 +51,7 @@ In this specific project I learned that I can use "template:" into the HTMLWebpa
 
 ### Continued development
 
-My focus is to continue learning and building in React and Nextjs
+My focus is to continue learning and building in React and Nextjs.
 
 ## Author
 
